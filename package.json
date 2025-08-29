@@ -1,0 +1,17 @@
+{
+  "name": "smart-budget-app",
+  "version": "1.0.0", 
+  "description": "Smart personal budget management application",
+  "main": "src/index.js",
+  "homepage": "https://[username].github.io/smart-budget-app",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1", 
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "gh-pages": "^5.0.0"
+  }
+}
